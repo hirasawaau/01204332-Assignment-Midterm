@@ -1,0 +1,2 @@
+print_n_time(n=1000000): 0.057251 secs
+non_print_n_time(n=1000000): 0.001257 secs
